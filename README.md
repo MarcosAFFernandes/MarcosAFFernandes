@@ -1,6 +1,6 @@
 # Marcos Fernandes 
 
-Degree in Computer Engineering, with a strong focus on Full-Stack Development.
+Bachelor's Degree in Computer Engineering, with a strong focus on Full-Stack Development.
 
 ## Overall Technological Knowledge
 
