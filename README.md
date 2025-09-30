@@ -1,6 +1,6 @@
 # Marcos Fernandes 
 
-Bachelor's Degree in Computer Engineering, with a strong interest in software development and technology. I'm always eager to embrace new challenges.
+Bachelor's Degree in Computer Engineering, with a strong interest in Full-Stack. I'm always eager to embrace new challenges.
 
 ## Overall Technological Knowledge
 
